@@ -1,0 +1,6 @@
+{
+  "appTitle": "greatfront",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}
